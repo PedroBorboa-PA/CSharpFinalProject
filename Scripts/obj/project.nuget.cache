@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kQWUpSyjqozRCfUWIwNGqiifo7A2MBorzGcQ5PRLVt3IZRaQoKlIWy9r8BYmE1SR9bQ74gdn9zUBgVN2MQAa8g==",
+  "dgSpecHash": "qAIxTJlCsyiMV9+zonxAAtTd1J1GSEMKstnFftGbFoKmpEiVTQfXLIQ28j8+er1iTxplGZuyRLRulM/osFuM+A==",
   "success": true,
-  "projectFilePath": "C:\\ProgCSharp\\HotelCheckIn\\HotelCheckIn.csproj",
+  "projectFilePath": "C:\\ProgCSharp\\HotelCheckIn\\Scripts\\HotelCheckIn.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

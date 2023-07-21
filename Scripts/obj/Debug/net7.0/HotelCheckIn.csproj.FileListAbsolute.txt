@@ -1,0 +1,15 @@
+C:\ProgCSharp\HotelCheckIn\Scripts\bin\Debug\net7.0\HotelCheckIn.exe
+C:\ProgCSharp\HotelCheckIn\Scripts\bin\Debug\net7.0\HotelCheckIn.deps.json
+C:\ProgCSharp\HotelCheckIn\Scripts\bin\Debug\net7.0\HotelCheckIn.runtimeconfig.json
+C:\ProgCSharp\HotelCheckIn\Scripts\bin\Debug\net7.0\HotelCheckIn.dll
+C:\ProgCSharp\HotelCheckIn\Scripts\bin\Debug\net7.0\HotelCheckIn.pdb
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\HotelCheckIn.csproj.AssemblyReference.cache
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\HotelCheckIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\HotelCheckIn.AssemblyInfoInputs.cache
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\HotelCheckIn.AssemblyInfo.cs
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\HotelCheckIn.csproj.CoreCompileInputs.cache
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\HotelCheckIn.dll
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\refint\HotelCheckIn.dll
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\HotelCheckIn.pdb
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\HotelCheckIn.genruntimeconfig.cache
+C:\ProgCSharp\HotelCheckIn\Scripts\obj\Debug\net7.0\ref\HotelCheckIn.dll

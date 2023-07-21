@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProgCSharp\\HotelCheckIn\\HotelCheckIn.csproj",
+      "projectUniqueName": "C:\\ProgCSharp\\HotelCheckIn\\Scripts\\HotelCheckIn.csproj",
       "projectName": "HotelCheckIn",
-      "projectPath": "C:\\ProgCSharp\\HotelCheckIn\\HotelCheckIn.csproj",
+      "projectPath": "C:\\ProgCSharp\\HotelCheckIn\\Scripts\\HotelCheckIn.csproj",
       "packagesPath": "C:\\Users\\ppborboa\\.nuget\\packages\\",
-      "outputPath": "C:\\ProgCSharp\\HotelCheckIn\\obj\\",
+      "outputPath": "C:\\ProgCSharp\\HotelCheckIn\\Scripts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ppborboa\\AppData\\Roaming\\NuGet\\NuGet.Config",
